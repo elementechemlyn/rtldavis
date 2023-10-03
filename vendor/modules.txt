@@ -1,3 +1,0 @@
-# github.com/jpoirier/gortlsdr v2.10.0+incompatible
-## explicit
-github.com/jpoirier/gortlsdr
