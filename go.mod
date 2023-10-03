@@ -1,4 +1,4 @@
-module rtldavis
+module github.com/elementechemlyn/rtldavis
 
 go 1.21.1
 
